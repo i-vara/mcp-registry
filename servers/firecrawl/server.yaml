@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/135057108?s=200&v=4
 source:
   project: https://github.com/mendableai/firecrawl-mcp-server
-  commit: 869cab1def77281f0c2e271be85d534d11ba137b
+  commit: 35195b6d0b9da9899b5f5241956c3963fd512c99
 config:
   description: Configure the connection to Firecrawl
   secrets:
